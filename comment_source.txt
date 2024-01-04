@@ -1,1 +1,1 @@
-If there is any similarity, the templates are taken from this repository: https://github.com/bconstantine/LeetCodesCollection
+If there is any similarity, the code templates are taken from this repository: https://github.com/bconstantine/LeetCodesCollection

@@ -34,4 +34,4 @@ for _ in range(amountTest):
     for rep in range(ans1):
         ans2 += keys[rep]
 
-    print(f"{ans1} {ans2}")
+    print(f"{int(ans1)} {int(ans2)}")
